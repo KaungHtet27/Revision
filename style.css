@@ -1,0 +1,33 @@
+.container{
+    text-align: center;
+}
+
+.btn{
+    width: 70px;
+    height: 2px 5px 2px 5px;
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+    border: 1px solid black;
+    border-radius: 25px;
+    outline-offset: 0px;
+    text-decoration: none;
+}
+.btn:hover{
+    background-color: #31545f;
+    color: bisque;
+}
+
+.list>li{
+    margin-bottom: 15px;
+}
+
+input{
+    border-radius: 50px;
+    outline-offset: 0px;
+    outline: none;
+    border: 1px solid gray;
+    text-align: center;
+    padding: 5px;
+    margin-bottom: 20px;
+}
